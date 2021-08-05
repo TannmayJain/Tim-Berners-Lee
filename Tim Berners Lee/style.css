@@ -1,0 +1,27 @@
+.profile{
+   margin-top: 50px;
+    width: 175px;
+    border-radius: 50%;
+    margin-bottom: 60px;
+}
+body{
+    text-align: center;
+
+}
+#welcome{
+    background: linear-gradient(red,blue);
+    height: 700px;
+}
+p{
+    max-width: 450px;
+    margin: 25px auto;
+}
+#bio{
+    background: rgb(255, 210, 9);
+}
+.line{
+    width: 70px;
+    background: darkorange;
+    height: 5px;
+    margin: 8px auto;
+}
